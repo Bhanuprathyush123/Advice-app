@@ -26,7 +26,6 @@ function AdviceGenerator() {
             
 
 
-
             {/* Button to regenrate the advice */}
             <div className=' bg-slate-600 p-2 rounded-xl'>
                <button onClick={generateAdvice} className=' text-xl '>Next Advice</button>
